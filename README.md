@@ -1,4 +1,5 @@
 # clean-code-javascript-memo
+> 原文 : [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 ## 前言
 在寫這份 `MEMO` 的當下，已經不知道是我第幾次重新打開 `clean-code` ，並從頭閱讀。但在每次讀完後，都會帶著大部分的認同，中部分的中立，和小部分的不認同，然後就放在一旁。這次希望能結合開發實務上的經驗和個人見解，對每一條內容進行評分，有必要的會進行詳細的文字補充，以整理出屬於自己一套的`整潔`。
 
